@@ -4,8 +4,7 @@ This repository contains the projects and assignments for the **Linear Algebra**
 
 ## Projects
 
-### 1. Leontief Input-Output Model
+### 1. [`Leontief Model`](./Leontief%20Model/Leontief.ipynb)
 The **Leontief Input-Output Model** is an economic model that represents the interdependencies between different industries in an economy. This project simulates the model using linear algebra to calculate outputs based on inputs across industries.
 
-- **Project location**: [`Leontief-Model`](./Leontief Model/Leontief.ipynb)
 - **Topics covered**: Matrices, row echelon form (REF) of a matrice, row reduced echelon form (RREF) of a matrice , linear equations.
