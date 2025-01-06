@@ -1,4 +1,4 @@
-# Linear Algebra Projects
+# Linear Algebra
 
 This repository contains the projects, assignments, and lectures for the **Linear Algebra** course at **Amirkabir University of Technology** (@aut-ce). The projects involve using linear algebra concepts in practical applications. Projects are implemented in a **Jupyter Notebook**, making it easy to follow the steps, computations, and visualizations.
 
