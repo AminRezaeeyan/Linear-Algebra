@@ -21,7 +21,7 @@ The **PageRank Algorithm** is used by search engines to rank web pages in their 
 #### - [Assignment 1 (Linear Equations + Matrix Algebra)](./Assignments/1)
 #### - [Assignment 2 (Determinants + Vector Spaces)](./Assignments/2)
 #### - [Assignment 3 (Eigenvectors and Eigenvalues)](./Assignments/3)
-#### - [Assignment 4 (Orthogonality + Symmetric Matrices](./Assignments/4)
+#### - [Assignment 4 (Orthogonality + Symmetric Matrices)](./Assignments/4)
 
 ## Lectures
 
